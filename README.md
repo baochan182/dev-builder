@@ -9,6 +9,7 @@ Currently working on C# WinForms applications, socket programming, and Cisco net
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/q.b2812/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/baochan2812)
 
 ---
 
@@ -19,4 +20,3 @@ Currently working on C# WinForms applications, socket programming, and Cisco net
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
-
