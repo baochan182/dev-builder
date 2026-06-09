@@ -1,4 +1,5 @@
 ### 💫 About Me:
+
 Hi, I am Le Quoc Bao
 I'm a second-year computer science student at UTH. 
 Currently working on C# WinForms applications, socket programming, and Cisco networking topologies.
